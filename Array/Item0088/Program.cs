@@ -1,4 +1,4 @@
-﻿namespace Leetcode.Item0088;
+﻿namespace Leetcode.Array.Item0088;
 
 using Leetcode.Utility;
 

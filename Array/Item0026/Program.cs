@@ -1,6 +1,6 @@
 ﻿using Leetcode.Utility;
 
-namespace Leetcode.Item0026;
+namespace Leetcode.Array.Item0026;
 
 
 internal class Program
