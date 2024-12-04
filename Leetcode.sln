@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Item0027", "Item0027\Item0027.csproj", "{EF004D19-EAD7-424D-8111-134324C06551}"
+	ProjectSection(ProjectDependencies) = postProject
+		{11387E9A-34D2-4A22-A200-673E015E3FBE} = {11387E9A-34D2-4A22-A200-673E015E3FBE}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Item0026", "Item0026\Item0026.csproj", "{B8F19754-73EE-44BF-A012-572E8AFAD941}"
+	ProjectSection(ProjectDependencies) = postProject
+		{11387E9A-34D2-4A22-A200-673E015E3FBE} = {11387E9A-34D2-4A22-A200-673E015E3FBE}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Item0080", "Item0080\Item0080.csproj", "{C444A40B-5D45-471A-B43D-3E856CC35A02}"
+	ProjectSection(ProjectDependencies) = postProject
+		{11387E9A-34D2-4A22-A200-673E015E3FBE} = {11387E9A-34D2-4A22-A200-673E015E3FBE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item0088", "Item0088\Item0088.csproj", "{9C33F11F-84BB-4D18-8B2C-E045031FFACB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{11387E9A-34D2-4A22-A200-673E015E3FBE} = {11387E9A-34D2-4A22-A200-673E015E3FBE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{11387E9A-34D2-4A22-A200-673E015E3FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item0169", "Item0169\Item0169.csproj", "{E39CFB9A-31B1-49A9-A8D5-5E577833438F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF004D19-EAD7-424D-8111-134324C06551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF004D19-EAD7-424D-8111-134324C06551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF004D19-EAD7-424D-8111-134324C06551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF004D19-EAD7-424D-8111-134324C06551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F19754-73EE-44BF-A012-572E8AFAD941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F19754-73EE-44BF-A012-572E8AFAD941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F19754-73EE-44BF-A012-572E8AFAD941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F19754-73EE-44BF-A012-572E8AFAD941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C444A40B-5D45-471A-B43D-3E856CC35A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C444A40B-5D45-471A-B43D-3E856CC35A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C444A40B-5D45-471A-B43D-3E856CC35A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C444A40B-5D45-471A-B43D-3E856CC35A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C33F11F-84BB-4D18-8B2C-E045031FFACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C33F11F-84BB-4D18-8B2C-E045031FFACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C33F11F-84BB-4D18-8B2C-E045031FFACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C33F11F-84BB-4D18-8B2C-E045031FFACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11387E9A-34D2-4A22-A200-673E015E3FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11387E9A-34D2-4A22-A200-673E015E3FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11387E9A-34D2-4A22-A200-673E015E3FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11387E9A-34D2-4A22-A200-673E015E3FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39CFB9A-31B1-49A9-A8D5-5E577833438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39CFB9A-31B1-49A9-A8D5-5E577833438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39CFB9A-31B1-49A9-A8D5-5E577833438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39CFB9A-31B1-49A9-A8D5-5E577833438F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65967048-4C1D-440E-A57D-17517145104E}
+	EndGlobalSection
+EndGlobal
