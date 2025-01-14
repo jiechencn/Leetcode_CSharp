@@ -31,7 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{E0B5B528
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item0189", "Array\Item0189\Item0189.csproj", "{F88995A7-CB53-4A13-91DD-4787BAE4EBE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item0121", "Item0121\Item0121.csproj", "{AF32CAAB-B8E0-499E-A864-1AE84098EDEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item0121", "Array\Item0121\Item0121.csproj", "{AF32CAAB-B8E0-499E-A864-1AE84098EDEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
